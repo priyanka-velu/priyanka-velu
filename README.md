@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hi 👋 I'm Priyanka Velu
+
+Welcome to my GitHub! 💻
+
+💌 [priyanka-velu.github.io](http://priyanka-velu.github.io)
+💬 [LinkedIn](https://www.linkedin.com/in/priyanka-velu-916474202/)
+📫 [priyav1101@gmail.com](mail to: priyav1101@gmail.com)
+
+```javascript
+const priyanka = {
+  pronouns: ["she", "her"],
+  skills: ["python", "SQL", "excel", "tableau", "power BI"],
+  tools: ["Microsoft Excel", "SQL Server Management Studio"],
+  school: ["colorado state university"]
+}
 
 <!--
 **priyanka-velu/priyanka-velu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +28,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
