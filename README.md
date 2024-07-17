@@ -8,12 +8,12 @@ Welcome to my GitHub! 💻
 ```javascript
 const priyanka = {
   pronouns: ["she", "her"],
-  languages: ["Python", "SQL", "VBA", "R"],
-  visualization: ["Tableau", "Power BI", "D3.js", "Plot.ly", "Leaflet.js", "Seaborn", "Matplotlib"],
-  sql: ["MySQL", "Microsoft SQL Server", "PostgreSQL", "SQLite", "MongoDB"],
-  python: ["Visual Studio Code", "Jupyter Notebook"],
-  machineLearningPackages: ["Pandas", "Numpy", "Scipy", "Scikit-learn", "TensorFlow", "Keras"],
-  excel: ["VBA", "Pivot Tables", "VLOOKUP", "XLOOKUP", "IFS", "Macros", "Charts", "Conditional Formatting", "Index/Match"],
-  school: ["Colorado State University"],
   major: ["Computer Science"]
+  school: ["Colorado State University"],
+  languages: ["Python", "SQL", "VBA", "R"],
+  python: ["Visual Studio Code", "Jupyter Notebook"],
+  sql: ["MySQL", "Microsoft SQL Server", "PostgreSQL", "SQLite", "MongoDB"],
+  machineLearningPackages: ["Pandas", "Numpy", "Scipy", "Scikit-learn", "TensorFlow", "Keras"],
+  visualization: ["Tableau", "Power BI", "D3.js", "Plot.ly", "Leaflet.js", "Seaborn", "Matplotlib"],
+  excel: ["VBA", "Pivot Tables", "VLOOKUP", "XLOOKUP", "IFS", "Macros", "Charts", "Conditional Formatting", "Index/Match"],
 };
