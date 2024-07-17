@@ -5,7 +5,7 @@
 - 👀 I’m interested in data analysis and data science
 - 🌱 I’m currently learning advanced data analytics
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 ```javascript
 const priyanka = {
   pronouns: ["she", "her"],
@@ -20,4 +20,4 @@ const priyanka = {
 }
 ```
 
-# 💻 Personal Projects
+## 💻 Personal Projects
