@@ -1,10 +1,10 @@
-## Hi 👋 I'm Priyanka Velu
+# Hi 👋 I'm Priyanka Velu
 
 Welcome to my GitHub! 💻
 
 💌 [priyanka-velu.github.io](http://priyanka-velu.github.io) 💬 [LinkedIn](https://www.linkedin.com/in/priyanka-velu-916474202/) 📫 [priyav1101@gmail.com](mailto:priyav1101@gmail.com)
 
-## About Me
+# About Me
 ```javascript
 const priyanka = {
   pronouns: ["she", "her"],
