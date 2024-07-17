@@ -1,13 +1,11 @@
-# Hi 👋 I'm Priyanka Velu
-
- 💻 Welcome to my GitHub!
+# 👋 Hi, I'm Priyanka Velu
 
 - 💌 [Portfolio](http://priyanka-velu.github.io) 
 - 💬 [LinkedIn](https://www.linkedin.com/in/priyanka-velu-916474202/) 
 - 👀 I’m interested in data analysis and data science
 - 🌱 I’m currently learning advanced data analytics
 
-# About Me
+# 👩‍💻 About Me
 ```javascript
 const priyanka = {
   pronouns: ["she", "her"],
@@ -19,4 +17,7 @@ const priyanka = {
   machineLearningPackages: ["Pandas", "Numpy", "Scipy", "Scikit-learn", "TensorFlow", "Keras"],
   visualization: ["Tableau", "Power BI", "D3.js", "Plot.ly", "Leaflet.js", "Seaborn", "Matplotlib"],
   excel: ["VBA", "Pivot Tables", "VLOOKUP", "XLOOKUP", "IFS", "Macros", "Charts", "Conditional Formatting", "Index/Match"],
-};
+}
+```
+
+# 💻 Personal Projects
