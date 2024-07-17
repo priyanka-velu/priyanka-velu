@@ -2,7 +2,7 @@
 
  💻 Welcome to my GitHub!
 
-- 💌 [priyanka-velu.github.io](http://priyanka-velu.github.io) 
+- 💌 [Portfolio](http://priyanka-velu.github.io) 
 - 💬 [LinkedIn](https://www.linkedin.com/in/priyanka-velu-916474202/) 
 - 👀 I’m interested in data analysis and data science
 - 🌱 I’m currently learning advanced data analytics
