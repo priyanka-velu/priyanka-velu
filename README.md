@@ -11,7 +11,7 @@
 ```javascript
 const priyanka = {
   pronouns: ["she", "her"],
-  major: ["Computer Science"]
+  major: ["Computer Science"],
   college: ["Colorado State University"],
   languages: ["Python", "SQL", "VBA", "R"],
   python: ["Visual Studio Code", "Jupyter Notebook"],
