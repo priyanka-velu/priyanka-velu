@@ -14,10 +14,11 @@ const priyanka = {
   college: ["Colorado State University"],
   languages: ["Python", "SQL", "VBA", "R"],
   python: ["Visual Studio Code", "Jupyter Notebook"],
-  sql: ["MySQL", "Microsoft SQL Server", "PostgreSQL", "SQLite", "MongoDB"],
   machineLearningPackages: ["Pandas", "Numpy", "Scipy", "Scikit-learn"],
+  sql: ["MySQL", "Microsoft SQL Server", "PostgreSQL", "SQLite", "MongoDB"],
   visualization: ["Tableau", "Power BI", "Plot.ly", "Seaborn", "Matplotlib"],
   excel: ["VBA", "Pivot Tables", "VLOOKUP", "XLOOKUP", "IFS", "Macros", "Charts", "Conditional Formatting", "Index/Match"],
+  certifications: [Google Data Analytics Professional Certificate]
 }
 ```
 
