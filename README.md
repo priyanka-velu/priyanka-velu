@@ -22,3 +22,10 @@ const priyanka = {
 ```
 
 ## 💻 Personal Projects
+- [SQL COVID-19 Data Analysis](https://github.com/priyanka-velu/SQL-COVID-19-Data-Analysis)
+- [Power BI Data Survey Dashboard](https://github.com/priyanka-velu/Power-BI-Data-Survey-Dashboard)
+- [Excel Bike Sales Analysis](https://github.com/priyanka-velu/Excel-Bike-Sales-Analysis)
+- [Tableau Airbnb Dashboard](https://github.com/priyanka-velu/Tableau-Airbnb-Dashboard)
+- [SQL Nashville Housing Cleaning](https://github.com/priyanka-velu/SQL-Nashville-Housing-Cleaning)
+- [Python World Population Analysis](https://github.com/priyanka-velu/Python-World-Population-Analysis)
+- [Python Amazon Web Scraper](https://github.com/priyanka-velu/Python-Amazon-Web-Scraper)
