@@ -18,7 +18,7 @@ const priyanka = {
   sql: ["MySQL", "Microsoft SQL Server", "PostgreSQL", "SQLite", "MongoDB"],
   visualization: ["Tableau", "Power BI", "Plot.ly", "Seaborn", "Matplotlib"],
   excel: ["VBA", "Pivot Tables", "VLOOKUP", "XLOOKUP", "IFS", "Macros", "Charts", "Conditional Formatting", "Index/Match"],
-  certifications: [Google Data Analytics Professional Certificate]
+  certifications: ["Google Data Analytics Professional Certificate"]
 }
 ```
 
